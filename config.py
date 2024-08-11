@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "20718334"))
 API_HASH = os.environ.get("API_HASH", "4e81464b29d79c58d0ad8a0c55ece4a5")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002177334941"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002181709508"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6441280856"))
@@ -62,8 +62,8 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘᴀɪ!!\n\n» ᴍʏ ᴏᴡɴᴇʀ : @rin_nanakura"
 
-ADMINS.append(7432102513)
-ADMINS.append(7432102513)
+ADMINS.append(6441280856)
+ADMINS.append(6441280856)
 
 LOG_FILE_NAME = "codeflixbots.txt"
 
